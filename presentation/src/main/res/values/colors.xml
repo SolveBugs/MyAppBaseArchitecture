@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="transparent_background">#90000000</color>
+    <color name="RGB_6FFFFFF">#6FFFFFFF</color>
+    <color name="RGB_FFFFFF">#FFFFFF</color>
+    <color name="RGB_4A89DC">#4A89DC</color>
+    <color name="RGB_656d78">#656d78</color>
+    <color name="RGB_434A54">#434a54</color>
+    <color name="RGB_b3417892">#b3417892</color>
+    <color name="RGB_E9E9E9">#9e9e9e</color>
+    <color name="RGB_65dcff">#65dcff</color>
+    <color name="RGB_24b5c5">#24b5c5</color>
+    <color name="RGB_06e6ff">#06e6ff</color>
+    <color name="RGB_03f6ff">#03f6ff</color>
+    <color name="RGB_929292">#929292</color>
+
+    <color name="RGB_CCD1D9">#ccd1d9</color>
+    <color name="RGB_E6E9ED">#e6d9ed</color>
+    <color name="RGB_AAB2BD">#aab2bd</color>
+    <color name="RGB_F5F7FA">#f5f7fa</color>
+    <color name="RGB_C4CFDC">#c4cfdc</color>
+    <color name="RGB_1A6A90">#1A6A90</color>
+    <color name="RGB_4D000000">#4D000000</color>
+    <color name="RGB_8820FF2D">#8820FF2D</color>
+    <color name="RGB_88FFC600">#88FFC600</color>
+    <color name="RGB_FF69DAFA">#FF69DAFA</color>
+    <color name="RGB_28E9FF">#28E9FF</color>
+    <color name="RGB_FFA133">#FFA133</color>
+
+
+
+    <color name="RGB_09ca9a">#09ca9a</color>
+    <color name="RGB_1dccff">#1dccff</color>
+    <color name="RGB_ff752a">#ff752a</color>
+    <color name="RGB_febf00">#febf00</color>
+    <color name="RGB_fea900">#FEA900</color>
+
+
+    <color name="RGB_E6021b3d">#E6021b3d</color>
+    <color name="RGB_6ed0ff">#6ed0ff</color>
+    <color name="RGB_03ff6f">#03f6ff</color>
+</resources>
